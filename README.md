@@ -10,7 +10,7 @@ It's a fully open source engine and for yours to keep forever! You can even make
 
 Q: Do I have to agree to a license?
 
-A: Absolutely NOT, this is fully open source! you may modify and build off this code, you can also contribute if you know LUA!
+A: Absolutely NOT, this is fully open source! you may modify and build off our code, you may also contribute if you know LUA!
 
 Q: Are there blacklists? 
 
