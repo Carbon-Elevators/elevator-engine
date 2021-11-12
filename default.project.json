@@ -6,7 +6,6 @@
 		"ServerScriptService": {
 			"$className": "ServerScriptService",
 			"CarbonElevatorsModule": {
-					"$className": "Folder",
 					"$path": "src/MainModule"
 			}
 		}
